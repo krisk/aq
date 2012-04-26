@@ -1,6 +1,6 @@
 {
-	"name" : "AQ",
-	"version" : "1.0.0",
+	"name" : "aq",
+	"version" : "0.0.3",
 	"description" : "App which automates QUnit tests",
 	"author" : "Kirollos Risk <kirollos@gmail.com>",
 	"contributors" : [],
