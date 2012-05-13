@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/krisk/aq.png?branch=master)](http://travis-ci.org/krisk/aq)
+
 # AQ
 
 ## What is it?
